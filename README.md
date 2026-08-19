@@ -1,4 +1,10 @@
 # F1 Analytics
+🇬🇧 [English](#english) | 🇷🇺 [Русский](#русский)
+
+---
+
+## English
+
 
 A tool for analyzing Formula 1 driver performance, built on [FastF1](https://github.com/theOehrly/Fast-F1) data. Pick any season from 2018 onward, any round, and any session type (practice, qualifying, race), then compare two drivers by pace, sector times, and — for races — tyre degradation.
 
@@ -54,7 +60,10 @@ plots.py — chart and table rendering (Plotly)
 
 **Sector table — driver 2**
 ![Sector table driver 2](https://github.com/user-attachments/assets/94090779-aafb-43d0-868f-2d5473816e86)
-# F1 Analytics
+---
+
+## Русский
+
 
 Инструмент для анализа темпа пилотов Формулы 1 на основе данных [FastF1](https://github.com/theOehrly/Fast-F1). Позволяет выбрать любой сезон с 2018 года, любую гонку и любую сессию (практика, квалификация, гонка), а затем сравнить двух пилотов по темпу, секторам и — для гонки — деградации шин.
 
@@ -106,4 +115,5 @@ plots.py — построение графиков и таблиц (Plotly)
 
 **Таблица секторов — пилот 2**
 ![Sector table driver 2](https://github.com/user-attachments/assets/94090779-aafb-43d0-868f-2d5473816e86)
+
 
