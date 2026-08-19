@@ -39,8 +39,6 @@ data_loader.py — загрузка сезона/сессии через FastF1
 analysis.py — расчёты (секторы, деградация, цвета команд)
 plots.py — построение графиков и таблиц (Plotly)
 ## Примеры
-## Примеры
-
 **Сравнение темпа по кругам**
 ![Lap times comparison](https://github.com/user-attachments/assets/fe73bbb3-4d7d-4f57-9034-c4c5ce66ac33)
 
