@@ -50,16 +50,17 @@ plots.py — chart and table rendering (Plotly)
 ## Examples
 
 **Lap time comparison**
-![Lap times comparison](https://github.com/user-attachments/assets/fe73bbb3-4d7d-4f57-9034-c4c5ce66ac33)
+![Lap times comparison](https://github.com/user-attachments/assets/cc599f29-6d1d-4309-bd44-40b9f0837ee3)
 
 **Tyre degradation**
-![Tyre degradation](https://github.com/user-attachments/assets/3279c7ca-3bf0-455b-b29b-1ed45933819e)
+![Tyre degradation](https://github.com/user-attachments/assets/2ea0c31b-1ce8-4df6-a94a-1b55bfd1d78f)
 
 **Sector table — driver 1**
-![Sector table driver 1](https://github.com/user-attachments/assets/cbb08b15-f393-42e1-9ee2-851f8ee45f1a)
+![Sector table driver 1](https://github.com/user-attachments/assets/f974f262-1406-4e7e-812d-0ad59e3f8767)
+
 
 **Sector table — driver 2**
-![Sector table driver 2](https://github.com/user-attachments/assets/94090779-aafb-43d0-868f-2d5473816e86)
+![Sector table driver 2](https://github.com/user-attachments/assets/d5281490-0f90-4fab-8501-1d8fa5dc3956)
 ---
 
 ## Русский
@@ -105,15 +106,15 @@ analysis.py — расчёты (секторы, деградация, цвета
 plots.py — построение графиков и таблиц (Plotly)
 ## Примеры
 **Сравнение темпа по кругам**
-![Lap times comparison](https://github.com/user-attachments/assets/fe73bbb3-4d7d-4f57-9034-c4c5ce66ac33)
+![Lap times comparison](https://github.com/user-attachments/assets/cc599f29-6d1d-4309-bd44-40b9f0837ee3)
 
 **Деградация шин**
-![Tyre degradation](https://github.com/user-attachments/assets/3279c7ca-3bf0-455b-b29b-1ed45933819e)
+![Tyre degradation](https://github.com/user-attachments/assets/2ea0c31b-1ce8-4df6-a94a-1b55bfd1d78f)
 
 **Таблица секторов — пилот 1**
-![Sector table driver 1](https://github.com/user-attachments/assets/cbb08b15-f393-42e1-9ee2-851f8ee45f1a)
+![Sector table driver 1](https://github.com/user-attachments/assets/f974f262-1406-4e7e-812d-0ad59e3f8767)
 
 **Таблица секторов — пилот 2**
-![Sector table driver 2](https://github.com/user-attachments/assets/94090779-aafb-43d0-868f-2d5473816e86)
+![Sector table driver 2](https://github.com/user-attachments/assets/d5281490-0f90-4fab-8501-1d8fa5dc3956)
 
 
