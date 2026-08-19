@@ -34,3 +34,21 @@ python main.py
 Скрипт спросит год, этап, тип сессии и коды пилотов — всё остальное построит и откроет в браузере автоматически.
 
 ## Структура проекта
+main.py — сценарий (ввод пользователя, порядок вызовов)
+data_loader.py — загрузка сезона/сессии через FastF1
+analysis.py — расчёты (секторы, деградация, цвета команд)
+plots.py — построение графиков и таблиц (Plotly)
+## Примеры
+## Примеры
+
+**Сравнение темпа по кругам**
+![Lap times comparison](https://github.com/user-attachments/assets/fe73bbb3-4d7d-4f57-9034-c4c5ce66ac33)
+
+**Деградация шин**
+![Tyre degradation](https://github.com/user-attachments/assets/3279c7ca-3bf0-455b-b29b-1ed45933819e)
+
+**Таблица секторов — пилот 1**
+![Sector table driver 1](https://github.com/user-attachments/assets/cbb08b15-f393-42e1-9ee2-851f8ee45f1a)
+
+**Таблица секторов — пилот 2**
+![Sector table driver 2](https://github.com/user-attachments/assets/94090779-aafb-43d0-868f-2d5473816e86)
